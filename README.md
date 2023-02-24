@@ -1,4 +1,4 @@
 # Homework ArrayBuffer
-## Math
+## ArrayBuffer
 
-[![Build status](https://ci.appveyor.com/api/projects/status/d15u6rm5wcr7t8lx?svg=true)](https://ci.appveyor.com/project/toha62/ajs-arraybuffer-math)
+[![Build status](https://ci.appveyor.com/api/projects/status/89fcjqatg35t1vdp?svg=true)](https://ci.appveyor.com/project/toha62/ajs-arraybuffer)
